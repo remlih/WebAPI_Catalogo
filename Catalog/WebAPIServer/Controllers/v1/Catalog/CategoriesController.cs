@@ -7,6 +7,7 @@ using Catalog.Shared.Constants.Permission;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace Catalog.WebAPIServer.Controllers.v1.Catalog
 {
     public class CategoriesController : BaseApiController<CategoriesController>
